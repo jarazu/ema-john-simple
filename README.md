@@ -4,7 +4,7 @@ This project was bootstrapped with [Cycling as hobby](https://cyclingashobby.com
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: [Cycling as hobby](https://cyclingashobby.com).
 
 ### `npm start`
 
